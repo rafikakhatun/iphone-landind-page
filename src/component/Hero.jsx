@@ -34,7 +34,7 @@ function Hero() {
                 {/*  input section*/}
 
                 <div className="space-y-5">
-                    <h1 className="text-2xl text-center font-semibold leading-tight tracking-tighter bg-gradient-to-r from-pink-900 via-yellow-400 to-blue-900 text-transparent bg-clip-text">Be the first to know about the iPhone 15 launch
+                    <h1 className="text-2xl text-center font-semibold leading-tight tracking-tighter bg-gradient-to-r from-pink-900 via-yellow-700 to-blue-900 text-transparent bg-clip-text">Be the first to know about the iPhone 15 launch
                     </h1>
                     <div className="flex justify-center items-center mt-8">
                         <input className=" w-1/2 px-4 py-3 outline-none border border-gray-500 bg-gray-50 rounded-l-lg" type="text" placeholder="Enter your email" />

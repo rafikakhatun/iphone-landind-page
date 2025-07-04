@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 Pro Max",
+    "title": "6.7-inch Super Retina XDR display, A15 Bionic chip, 128GB storage",
+    "price": "$1099",
+    "button": "Order now",
+    "image": "src/assets/Mkeke for iPhone 14 Pro Case Clear, [Military Grade Protection] [Not Yellowing] Shockproof Phone Case for Apple iPhone 14 Pro 2022.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13",
+    "title": "6.1-inch display, Dual-camera system, A15 Bionic chip",
+    "price": "$899",
+    "button": "Order now",
+    "image": "src/assets/iphonemini.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 13 Mini",
+    "title": "5.4-inch compact display, A15 Bionic chip, Ultra-portable",
+    "price": "$799",
+    "button": "order now",
+    "image": "src/assets/iPhone Customization Ideas _ Unique Ways to Personalize Your Phone.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "iPhone 12 Pro",
+    "title": "6.1-inch display, Triple-camera system, A14 Bionic chip",
+    "price": "$849",
+    "button": "Order now",
+    "image": "src/assets/_ (5).jpeg"
+  },
+  {
+    "id": 5,
+    "name": "iPhone 11",
+    "title": "6.1-inch Liquid Retina HD display, A13 Bionic chip",
+    "price": "$599",
+    "button": "Order Now",
+    "image": "src/assets/_ (4).jpeg"
+  },
+  {
+    "id": 6,
+    "name": "iPhone SE (2022)",
+    "title": "4.7-inch Retina HD display, A15 Bionic, Touch ID",
+    "price": "$429",
+    "button": "Order now",
+    "image": "src/assets/_ (3).jpeg"
+  }
+]
