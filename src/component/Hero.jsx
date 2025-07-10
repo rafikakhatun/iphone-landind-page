@@ -1,3 +1,5 @@
+import image from '../assets/_ (2).jpeg';
+
 function Hero() {
     return (
         <>
@@ -18,13 +20,13 @@ function Hero() {
 
                 <div className="flex justify-center items-center" data-aos="fade-up">
                     <div data-aos="flip-left">
-                        <img className="w-64 h-[500px] mt-10" src="src/assets/_ (2).jpeg" alt="" />
+                        <img className="w-64 h-[500px] mt-10" src={image} alt="" />
                     </div>
                     <div data-aos="flip-up">
-                        <img className="w-72 h-[700px]" src="src/assets/_ (2).jpeg" alt="" />
+                        <img className="w-72 h-[700px]" src={image} alt="" />
                     </div>
                     <div data-aos="flip-right">
-                        <img className="w-64 h-[500px] mt-10" src="src/assets/_ (2).jpeg" alt="" />
+                        <img className="w-64 h-[500px] mt-10" src={image} alt="" />
                     </div>
                 </div>
 
