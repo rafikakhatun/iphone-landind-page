@@ -4,7 +4,7 @@ function MobileData({ datas }) {
     return (
         <>
             <div
-                className="w-72 py-8 px-4 shadow-md border border-gray-300 rounded-md"
+                className="w-72 py-8 px-5 shadow-md border border-gray-300 rounded-md"
                 data-aos="fade-up"
             >
                 <img
