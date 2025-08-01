@@ -9,7 +9,7 @@ Welcome to **iPhoneWorld**, a beautiful and responsive single-page React applica
 
 ### 🖥️ Desktop View
 
-![Desktop Screenshot](screenshots/desktop-view.png)
+![Desktop Screenshot](./src/assets/Desktop-view.png)
 
 ### 📱 Mobile View
 
