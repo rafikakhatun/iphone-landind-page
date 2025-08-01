@@ -13,7 +13,7 @@ Welcome to **iPhoneWorld**, a beautiful and responsive single-page React applica
 
 ### 📱 Mobile View
 
-![Mobile Screenshot](screenshots/mobile-view.png)
+![Mobile Screenshot](./src/assets/mobile-view.png)
 
 > Screenshots are stored inside the `/screenshots` folder (create one in your project root).
 
