@@ -1,12 +1,46 @@
-# React + Vite
+# 📱 iPhoneWorld - Premium iPhone Showcasing Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **iPhoneWorld**, a beautiful and responsive single-page React application that showcases Apple iPhones with engaging animations and clean UI design. This project is perfect for learning or demonstrating skills in frontend development, React, Tailwind CSS, and JSON data handling.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🖥️ Desktop View
+
+![Desktop Screenshot](screenshots/desktop-view.png)
+
+### 📱 Mobile View
+
+![Mobile Screenshot](screenshots/mobile-view.png)
+
+> Screenshots are stored inside the `/screenshots` folder (create one in your project root).
+
+---
+
+## ✨ Features
+
+- 🔥 Animated UI with AOS (Animate On Scroll)
+- ⚡ JSON-based dynamic product data rendering
+- 📱 Fully responsive layout for mobile & desktop
+- 🎨 Tailwind CSS styling
+- 🛒 “Order Now” action buttons
+- 📧 “Notify Me” email input section
+- 📦 Organized component structure
+- 🔗 Social media icons & navigation links in footer
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **AOS (Animate On Scroll)**
+- **React Icons**
+- **Vite** (for fast development)
+
+---
+
+## 📁 Folder Structure Overview
+
